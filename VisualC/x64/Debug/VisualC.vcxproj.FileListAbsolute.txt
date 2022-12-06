@@ -1,0 +1,3 @@
+C:\Users\Domin\source\repos\VisualC\VisualC\x64\Debug\VisualC.vcxproj.AssemblyReference.cache
+C:\Users\Domin\source\repos\VisualC\VisualC\x64\Debug\VisualC.MyForm.resources
+C:\Users\Domin\source\repos\VisualC\VisualC\x64\Debug\VisualC.vcxproj.GenerateResource.cache
